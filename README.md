@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kolton04
-- 👀 I’m interested in programming and music.
+- 👀 I’m interested in programming and music/art.
 - 🌱 I’m currently learning c#.
-- 💞️ I’m looking to collaborate on nothing currently.
 - 📫 How to reach me kolton.tolliver@gmail.com
 
 <!---
